@@ -21,4 +21,6 @@
  Код прогрыммы - в папке program.
 
  ---
- Графичесая блок схема в папке program/scheme.
+ ***Блок-схема:***
+ 
+ ![блок-схема](https://github.com/John01166/CR1/blob/main/program/scheme.png?raw=true "блок-схема")
